@@ -1,4 +1,4 @@
-module github.com/apache/incubator-answer-plugins/captcha-google-v2
+module github.com/CreatechStudio/Apache-Answer-reCAPTCHA-CN
 
 go 1.19
 
